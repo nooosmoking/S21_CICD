@@ -1,0 +1,6 @@
+[init]
+	defaultBranch = none
+[fetch]
+	recurseSubmodules = false
+[http "https://repos.21-school.ru"]
+	sslCAInfo = /home/ws/CICD/builds/QyzVQ4u3/0/students/DO6_CICD.ID_356283/kaleighh_student.21_school.ru/DO6_CICD-0.tmp/CI_SERVER_TLS_CA_FILE

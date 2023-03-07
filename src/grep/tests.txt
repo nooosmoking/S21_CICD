@@ -1,0 +1,42 @@
+
+srsblmrtb
+brrktbhm
+
+byh;r
+
+
+
+        tgvrst
+			
+Rtgr		
+		rag
+   
+ 
+				fy
+			
+int parser(int argc, char* argv[], options* opt, int* counter_flags, int* counter_paterns, char* paterns[]) {
+    int err = 0;
+    char option;
+    while((option = getopt(argc, argv, "ie:nclv")) != (-1)) {
+        switch(option) {
+                case 'i': 
+                    opt->i = 1;
+                    break;
+
+S
+S
+^int
+
+ 
+)$
+
+[^abc].
+int int int
+int int
+int
+
+test
+CLEAN
+clean
+^#include
+
